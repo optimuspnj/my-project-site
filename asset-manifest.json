@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.58485889.css",
-    "main.js": "/static/js/main.940078ba.js",
+    "main.js": "/static/js/main.f2da398a.js",
     "static/media/group_report.pdf": "/static/media/group_report.e97b9dadbbf6a4d37623.pdf",
     "static/media/external_memory.pdf": "/static/media/external_memory.000648f3394724969812.pdf",
     "static/media/java.pdf": "/static/media/java.8646e125b7b12e11360a.pdf",
@@ -23,10 +23,10 @@
     "static/media/computer_networks2.pdf": "/static/media/computer_networks2.9342d8563a123fece2a3.pdf",
     "index.html": "/index.html",
     "main.58485889.css.map": "/static/css/main.58485889.css.map",
-    "main.940078ba.js.map": "/static/js/main.940078ba.js.map"
+    "main.f2da398a.js.map": "/static/js/main.f2da398a.js.map"
   },
   "entrypoints": [
     "static/css/main.58485889.css",
-    "static/js/main.940078ba.js"
+    "static/js/main.f2da398a.js"
   ]
 }
