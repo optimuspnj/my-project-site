@@ -1,0 +1,8 @@
+{
+  "short_name": "Prabhash Project Site",
+  "name": "Prabhash projects and reports site",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

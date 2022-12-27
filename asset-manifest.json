@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/my-project-site/static/css/main.58485889.css",
+    "main.js": "/my-project-site/static/js/main.68cd62bc.js",
+    "static/media/group_report.pdf": "/my-project-site/static/media/group_report.e97b9dadbbf6a4d37623.pdf",
+    "static/media/external_memory.pdf": "/my-project-site/static/media/external_memory.000648f3394724969812.pdf",
+    "static/media/java.pdf": "/my-project-site/static/media/java.8646e125b7b12e11360a.pdf",
+    "static/media/research_review.pdf": "/my-project-site/static/media/research_review.9c80498d30efdb919e9e.pdf",
+    "static/media/integration_mngmnt.pdf": "/my-project-site/static/media/integration_mngmnt.9783ffe5039ded016514.pdf",
+    "static/media/piit.pdf": "/my-project-site/static/media/piit.b9516b94e9cd4bbe3d50.pdf",
+    "static/media/rapid_agile.pdf": "/my-project-site/static/media/rapid_agile.0585df128aa6d9fb48c9.pdf",
+    "static/media/hci02.pdf": "/my-project-site/static/media/hci02.9730bf28dc48fad05e78.pdf",
+    "static/media/hci01.pdf": "/my-project-site/static/media/hci01.0d249dfa7a01b46f70ee.pdf",
+    "static/media/computer_networks.pdf": "/my-project-site/static/media/computer_networks.55595cb74d4b092b054d.pdf",
+    "static/media/cache_memory.pdf": "/my-project-site/static/media/cache_memory.ad93d17d411fae3259bd.pdf",
+    "static/media/final_report.pdf": "/my-project-site/static/media/final_report.b33e52db1d98d0d7bac6.pdf",
+    "static/media/business_economics.pdf": "/my-project-site/static/media/business_economics.2daec580ef9b4046e920.pdf",
+    "static/media/interrupts_bus.pdf": "/my-project-site/static/media/interrupts_bus.2994b06de7cbadef695e.pdf",
+    "static/media/ieee_for_srs.pdf": "/my-project-site/static/media/ieee_for_srs.d2a775300ffd5a840f65.pdf",
+    "static/media/tcl.pdf": "/my-project-site/static/media/tcl.351d20582530eb2e98cd.pdf",
+    "static/media/erp_report.pdf": "/my-project-site/static/media/erp_report.fb8a9f5e3406f949a8b5.pdf",
+    "static/media/ooad.pdf": "/my-project-site/static/media/ooad.5b7253d2e01a706ac263.pdf",
+    "static/media/computer_networks2.pdf": "/my-project-site/static/media/computer_networks2.9342d8563a123fece2a3.pdf",
+    "index.html": "/my-project-site/index.html",
+    "main.58485889.css.map": "/my-project-site/static/css/main.58485889.css.map",
+    "main.68cd62bc.js.map": "/my-project-site/static/js/main.68cd62bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58485889.css",
+    "static/js/main.68cd62bc.js"
+  ]
+}
